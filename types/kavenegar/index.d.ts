@@ -173,6 +173,8 @@ export namespace kavenegar {
                 token: string;
                 token2?: string | undefined;
                 token3?: string | undefined;
+                token10?: string | undefined;
+                token20?: string | undefined;
                 template: string | undefined;
                 type?: string | undefined;
             },
